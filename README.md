@@ -33,3 +33,7 @@ npm install
 ```
 npm start
 ```
+or
+```
+npm dev
+```
